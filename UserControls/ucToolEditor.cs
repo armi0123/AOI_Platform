@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AOI_Platform
+namespace AOI_Platform.UserControls
 {
     public partial class ucToolEditor : UserControl
     {

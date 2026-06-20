@@ -73,7 +73,7 @@
             this.tpToolEditor.Location = new System.Drawing.Point(4, 25);
             this.tpToolEditor.Name = "tpToolEditor";
             this.tpToolEditor.Padding = new System.Windows.Forms.Padding(3);
-            this.tpToolEditor.Size = new System.Drawing.Size(823, 410);
+            this.tpToolEditor.Size = new System.Drawing.Size(823, 407);
             this.tpToolEditor.TabIndex = 1;
             this.tpToolEditor.Text = "Tool Editor";
             this.tpToolEditor.UseVisualStyleBackColor = true;
@@ -83,7 +83,7 @@
             this.tpPLCMonitor.Location = new System.Drawing.Point(4, 25);
             this.tpPLCMonitor.Name = "tpPLCMonitor";
             this.tpPLCMonitor.Padding = new System.Windows.Forms.Padding(3);
-            this.tpPLCMonitor.Size = new System.Drawing.Size(823, 410);
+            this.tpPLCMonitor.Size = new System.Drawing.Size(823, 407);
             this.tpPLCMonitor.TabIndex = 2;
             this.tpPLCMonitor.Text = "PLC Monitor";
             this.tpPLCMonitor.UseVisualStyleBackColor = true;
@@ -93,7 +93,7 @@
             this.tpSystemConfig.Location = new System.Drawing.Point(4, 25);
             this.tpSystemConfig.Name = "tpSystemConfig";
             this.tpSystemConfig.Padding = new System.Windows.Forms.Padding(3);
-            this.tpSystemConfig.Size = new System.Drawing.Size(823, 410);
+            this.tpSystemConfig.Size = new System.Drawing.Size(823, 407);
             this.tpSystemConfig.TabIndex = 3;
             this.tpSystemConfig.Text = "System Config";
             this.tpSystemConfig.UseVisualStyleBackColor = true;
@@ -103,7 +103,7 @@
             this.tpLog.Location = new System.Drawing.Point(4, 25);
             this.tpLog.Name = "tpLog";
             this.tpLog.Padding = new System.Windows.Forms.Padding(3);
-            this.tpLog.Size = new System.Drawing.Size(823, 410);
+            this.tpLog.Size = new System.Drawing.Size(823, 407);
             this.tpLog.TabIndex = 4;
             this.tpLog.Text = "Log";
             this.tpLog.UseVisualStyleBackColor = true;
@@ -122,26 +122,26 @@
             // fileToolStripMenuItem
             // 
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // configToolStripMenuItem
             // 
             this.configToolStripMenuItem.Name = "configToolStripMenuItem";
-            this.configToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.configToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.configToolStripMenuItem.Text = "Config";
             this.configToolStripMenuItem.Click += new System.EventHandler(this.configToolStripMenuItem_Click);
             // 
             // toolToolStripMenuItem
             // 
             this.toolToolStripMenuItem.Name = "toolToolStripMenuItem";
-            this.toolToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.toolToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.toolToolStripMenuItem.Text = "Tool";
             // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(139, 26);
             this.helpToolStripMenuItem.Text = "Help";
             // 
             // menuStrip1
@@ -164,7 +164,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "MainForm";
-            this.Text = "要你命5000";
+            this.Text = "AOI_Platfotm";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.tcMain.ResumeLayout(false);
             this.menuStrip1.ResumeLayout(false);

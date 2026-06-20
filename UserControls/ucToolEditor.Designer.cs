@@ -1,4 +1,4 @@
-﻿namespace AOI_Platform
+﻿namespace AOI_Platform.UserControls
 {
     partial class ucToolEditor
     {
