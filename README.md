@@ -1,8 +1,8 @@
-# AOI Platform Demo
+# AOI Platform
 
 ## 中文介紹
 
-AOI Platform Demo 是一個使用 C# 與 Visual Studio 開發的模組化 AOI（Automated Optical Inspection，自動光學檢測）軟體架構專案。
+AOI Platform 是一個使用 C# 與 Visual Studio 開發的模組化 AOI（Automated Optical Inspection，自動光學檢測）軟體架構專案。
 
 本專案主要目標為學習工業 AOI 軟體架構設計，並模擬實際自動化設備與視覺檢測系統常見的功能模組，包含 PLC 通訊、檢測流程管理、系統設定管理、Log 紀錄以及模組化使用者介面設計。
 
@@ -192,7 +192,7 @@ PLC
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# AOI Platform Demo
+# AOI Platform
 
 ## English Introduction
 
